@@ -1,0 +1,27 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "Zqr.com",
+    "domain": "https://github.com/strangepapers/zqr.git",
+    "email": "zqr79820673@Outlook.com",
+    "platform": "github",
+    "repository": "zqr",
+    "token": "046427",
+    "username": "strangepapers"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
